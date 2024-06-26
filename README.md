@@ -60,3 +60,7 @@ The code is organized into well-defined modules for clarity and maintainability:
 * `youtube_api.py`: Manages uploading the converted Short to your YouTube channel.
 
 **By utilizing this tool, you can unlock the potential of repurposing engaging Reddit content for your YouTube Shorts channel, saving time and effort while expanding your reach!**
+
+**License**
+
+This project is licensed under the MIT License (see LICENSE file for details).
