@@ -1,4 +1,4 @@
-## Improved Reddit to Short Converter README
+## Reddit to Short Converter
 
 **Introduction**
 
